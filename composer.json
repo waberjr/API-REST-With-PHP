@@ -1,6 +1,6 @@
 {
-    "name": "waberjr/phptips001",
-    "description": "Conhecendo o Composer e Configurando a IDE. PHP-TIPS #001.",
+    "name": "waberjr/api-rest-php",
+    "description": "My first API REST created",
     "minimum-stability": "stable",
     "licence": "MIT",
     "authors": [
