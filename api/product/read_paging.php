@@ -50,15 +50,14 @@ if($num > 0){
         // extract row
         // this will make $row['name'] to
         // just $name only
-        extract($row);
-  
+
         $product_item=array(
-            "id" => $id,
-            "name" => $name,
-            "description" => html_entity_decode($description),
-            "price" => $price,
-            "category_id" => $category_id,
-            "category_name" => $category_name
+            "id" => $row->$id,
+            "name" => $row->$name,
+            "description" => html_entity_decode($row->$description),
+            "price" => $row->$price,
+            "category_id" => $row->$category_id,
+            "category_name" => $row->$category_name
         );
   
         array_push($products_arr["records"], $product_item);

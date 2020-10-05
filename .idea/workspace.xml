@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4d9adec-eb2c-4168-b5e7-a42a957190a3" name="Default Changelist" comment="" />
+    <list default="true" id="b4d9adec-eb2c-4168-b5e7-a42a957190a3" name="Default Changelist" comment="First commit.&#10;All classes and files are ready to use.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/product/read.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/product/read.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/product/read_paging.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/product/read_paging.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/product/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/product/search.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,12 +31,16 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
   <component name="ProjectId" id="1iSOUV9QzwfszgJKZwBfOS1FndF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,12 +67,47 @@
       <option name="presentableId" value="Default" />
       <updated>1601897543535</updated>
       <workItem from="1601897544656" duration="604000" />
-      <workItem from="1601900845930" duration="1935000" />
+      <workItem from="1601900845930" duration="2410000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit.&#10;All classes and files are ready to use.">
+      <created>1601903061021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601903061021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit.&#10;All classes and files are ready to use." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit.&#10;All classes and files are ready to use." />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1601902791253">
@@ -59,6 +118,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="514" y="327" key="Github.CreateGistDialog/-1366.155.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601901573331" />
+    <state x="644" y="401" width="519" height="204" key="Github.ShareDialog" timestamp="1601902829223">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="644" y="401" width="519" height="204" key="Github.ShareDialog/-1366.155.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601902829223" />
     <state x="461" y="170" key="SettingsEditor" timestamp="1601902796792">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
