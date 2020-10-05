@@ -1,0 +1,27 @@
+{
+    "name": "waberjr/phptips001",
+    "description": "Conhecendo o Composer e Configurando a IDE. PHP-TIPS #001.",
+    "minimum-stability": "stable",
+    "licence": "MIT",
+    "authors": [
+        {
+            "name": "Waber Jr.",
+            "email": "waberjunior@hotmail.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+      "psr-4": {
+            "Source\\": "api/"
+      },
+      "files": [
+            "api/Config/Database.php",
+            "api/Objects/Product.php",
+            "api/Objects/Category.php",
+            "api/Shared/Utilities.php"
+      ]
+    },
+    "require": {}
+}
